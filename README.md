@@ -23,3 +23,7 @@ Se identificaron variables clave como el monto y la hora.
 - Python
 - Pandas
 - Scikit-learn
+
+## Video Youtube Explicacion
+https://www.youtube.com/watch?v=eBcLiCgnKis
+
